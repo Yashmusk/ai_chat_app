@@ -29,7 +29,7 @@ const AIChat = () => {
       <input
         type="text"
         className="border px-2 py-1 w-full mb-2"
-        placeholder="Enter your question..."
+        placeholder="Enter your question........"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
       />
